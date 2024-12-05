@@ -1,0 +1,37 @@
+
+
+Mon Nov 18 11:53:57 2024
+Command line: TestDisk
+
+TestDisk 7.1, Data Recovery Utility, July 2019
+Christophe GRENIER <grenier@cgsecurity.org>
+https://www.cgsecurity.org
+OS: Linux, kernel 6.8.0-48-generic (#48~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Mon Oct  7 11:24:13 UTC 2) x86_64
+Compiler: GCC 11.2
+ext2fs lib: 1.46.5, ntfs lib: libntfs-3g, reiserfs lib: none, ewf lib: none, curses lib: ncurses 6.3
+Warning: can't get size for Disk /dev/mapper/control - 0 B - 0 sectors, sector size=512
+/dev/sr0 is not an ATA disk
+/dev/sr1 is not an ATA disk
+Warning: can't get size for Disk /dev/loop16 - 0 B - 0 sectors, sector size=512
+Hard disk list
+Disk /dev/sda - 85 GB / 80 GiB - CHS 10443 255 63, sector size=512 - VMware, VMware Virtual S, FW:1.0
+Disk /dev/sr0 - 132 MB / 126 MiB - 64724 sectors (RO), sector size=2048 - VMware Virtual SATA CDRW Drive, S/N:00000000000000000001, FW:00000001
+Disk /dev/sr1 - 3654 MB / 3485 MiB - 1784647 sectors (RO), sector size=2048 - VMware Virtual SATA CDRW Drive, S/N:01000000000000000001, FW:00000001
+Disk /dev/loop0 - 4096 B - 8 sectors (RO), sector size=512
+Disk /dev/loop1 - 64 MB / 61 MiB - 126760 sectors (RO), sector size=512
+Disk /dev/loop10 - 96 MB / 91 MiB - 187776 sectors (RO), sector size=512
+Disk /dev/loop11 - 48 MB / 45 MiB - 93920 sectors (RO), sector size=512
+Disk /dev/loop12 - 12 MB / 12 MiB - 24984 sectors (RO), sector size=512
+Disk /dev/loop13 - 40 MB / 38 MiB - 79520 sectors (RO), sector size=512
+Disk /dev/loop14 - 581 KB / 568 KiB - 1136 sectors (RO), sector size=512
+Disk /dev/loop15 - 290 KB / 284 KiB - 568 sectors (RO), sector size=512
+Disk /dev/loop2 - 66 MB / 63 MiB - 130448 sectors (RO), sector size=512
+Disk /dev/loop3 - 77 MB / 73 MiB - 151296 sectors (RO), sector size=512
+Disk /dev/loop4 - 286 MB / 273 MiB - 560352 sectors (RO), sector size=512
+Disk /dev/loop5 - 286 MB / 272 MiB - 559056 sectors (RO), sector size=512
+Disk /dev/loop6 - 366 MB / 349 MiB - 716176 sectors (RO), sector size=512
+Disk /dev/loop7 - 529 MB / 505 MiB - 1034424 sectors (RO), sector size=512
+Disk /dev/loop8 - 260 MB / 248 MiB - 509456 sectors (RO), sector size=512
+Disk /dev/loop9 - 85 MB / 81 MiB - 166424 sectors (RO), sector size=512
+
+SIGHUP detected! TestDisk has been killed.
